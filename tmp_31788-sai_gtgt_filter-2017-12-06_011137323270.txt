@@ -1,0 +1,458 @@
+g.doubleclick.net
+static.fc2.com
+static.mixi.jp
+stats.wordpress.com
+sy.ameba.jp
+seo-stats.com
+yjaxc.yahoo.co.jp
+logql.yahoo.co.jp
+adt.measure.ameblo.jp
+fanp.me
+googletagmanager.com
+line-apps.com
+scdn.line-apps.com
+popin.cc
+!2017-09-07 9:02
+gravatar.com
+ladsp.com
+oct-pass.net
+!2017-09-13 10:24
+t.blog.livedoor.jp
+cdn-ak.b.st-hatena.com
+!2017-09-13_11:58
+gh-base.com
+api.mhdapi.yahoo.co.jp
+!2017-09-14
+disqus.com
+! 2017-11-20
+facebook.com
+facebook.net
+google-analytics.com
+blog.esuteru.com
+ch.esuteru.com
+freesoft.tvbok.com
+hamusoku.com
+matome.naver.jp
+yaraon.blog109.fc2.com
+cookpad.com
+okm.yomiuri.co.jp
+recipe.rakuten.co.jp
+r10s.jp
+digitiminimi.com
+gstatic.com
+s.hatena.ne.jp
+somewrite.jp
+j.somewrite.jp
+erosoku.pink
+media.line.me
+media.line.naver.jp
+tangankanan.net
+adservicegoogle.co.jp
+ch-fortune.yahoo.co.jp
+glssp.jp
+video.watch.impress.co.jp
+googletagservices.com
+gstatic.com
+wwwgstatic.com
+amd.c.yimg.jp
+cdnanalytics.xyz
+eluxer.net
+tdsrmbl.net
+worldnaturenet.xyz
+!2017-11-27_9:32
+ad-cloud.jp
+ameba.d.ad-cloud.jp
+c.ameba.d.ad-cloud.jp
+ad-hatena.jp
+promotionalads.yahoo.co.jp
+rd.ane.yahoo.co.jp
+rd.listing.yahoo.co.jp
+rd.yahoo.co.jp
+smartads.mobile.yahoo.co.jp
+yads.yahoo.co.jp
+yads.yjtag.yahoo.co.jp
+yeas.yahoo.co.jp 
+yahooapis.jp
+!yahoo.com
+webmaster.yahoo.com
+adserver.yahoo.com
+www.promotions.yahoo.com
+!2017-11-27_itmedia
+ad.itmedia.co.jp 
+fc.itmedia.co.jp 
+tb.itmedia.co.jp
+dlv.itmedia.jp
+!hatena.ne.jp
+ad.hatena.ne.jp
+api.b.hatena.ne.jp
+c.hatena.ne.jp
+counter.hatena.ne.jp
+el.hatena.ne.jp
+red.hatena.ne.jp
+red3.hatena.ne.jp
+ring.hatena.ne.jp
+track.hatena.ne.jp
+cdn7.www.st-hatena.jp
+codepen.io
+production-assets.codepen.io
+s.codepen.io
+!ameba_ameblo
+act.ameba.jp
+ad.pr.ameba.jp
+api.curation.ameba.jp 
+bzzool.vision.ameba.jp 
+click.affiliate.ameba.jp
+m.ameba.jp spstatic.ameba.jp
+stat.gamy.ameba.jp 
+usrattr.ameba.jp
+vc.ameba.jp
+adt.measure.ameblo.jp 
+measure.ameblo.jp 
+!amazon.co.jp
+rcm-jp.amazon.co.jp
+ws.amazon.co.jp
+akamai.net
+akamai.com
+popin.cc
+nakanohito.jp
+im-apps.net
+dmp.im-apps.net
+adnxs.com
+adtechjp.com
+pixel.advertising.com
+rubiconproject.com
+openx.com
+adsrvr.com
+mookie1.com
+mathtag.com
+rfihub.com
+advertising.com
+hbtrll.com
+turn.com
+d2-apps.net
+pixel.wp.com
+s0.wp.com
+stats.wp.com
+pf-api.hatena.com
+b.hatena.ne.jp
+s.hatena.ne.jp
+hatena-d.openx.net
+cdn1.www.st-hatena.com
+cdn7.www.st-hatena.com
+
+!--2017-08-19_url--!
+
+!全世界共通ブロック
+||cdn.gh-base.com/js/1.0.0/ghb-sdk.js 
+||a.t.webtracker.jp/js/a.js 
+||a.t.webtracker.jp/js/swfobject.js
+||cdn.syndication.twimg.com
+||syndication.twitter.com/settings
+||connect.facebook.net/en_US/fbevents.js
+||connect.facebook.net/signals
+||platform.twitter.com/widgets.js 
+||apis.google.com/js/plusone.js 
+||pagead2.googlesyndication.com/pagead/show_ads.js
+||stats.g.doubleclick.net/dc.js
+||www.google-analytics.com/analytics.js
+||pbs.twimg.com/
+||www.googletagservices.com/tag/js/gpt.js
+||redirector.googlevideo.com
+||ads.yahoo.com
+||www.google.com/ads
+||www.googleadservices.com/pagead/conversion.js
+||s.hatena.ne.jp/js/HatenaStar.js
+
+!ascii_js
+||ascii.jp/js/trunk8.js
+||ascii.jp/js/ViewTypeCtrl.js
+||ascii.jp/js/YougoSearch.js 
+||ascii.jp/js/asclub/ascii.hideByCookie.js 
+||ascii.jp/js/control_1.js 
+||ascii.jp/sp201510/js/sphone/jquery.social-link.js
+||ascii.jp/sp201510/js/sphone/jquery.social-count.js
+||ascii.jp/sp201510/js/sphone/ascii.hero.js
+||ascii.jp/sp201510/js/sphone/ascii.inApp.js
+
+!i無料
+||uranaitv.jp/content/wp-includes/js/wp-emoji-release.min.js?ver=*
+||uranaitv.jp/content/wp-includes/js/wp-embed.min.js?ver=*
+||uranaitv.jp/content/wp-content/themes/news_theme/common.js
+||uranaitv.jp/content/wp-content/themes/news_theme/single.js
+
+!itmedia
+||itmedia.co.jp/js/lib/cx_article_id_ranking.js
+||itmedia.co.jp/js/spv/movePC2SP.js
+||itmedia.co.jp/js/scAccount.js
+
+!yahoo_js_block
+||s.yimg.jp/bdv/yahoo/javascript/csc/20060824/lib2obf_b6.js
+||s.yimg.jp/images/fortune/js/addLoadEvent.js
+||s.yimg.jp/bdv/yahoo/javascript/smartphone/flow_request.js?
+||s.yimg.jp/images/ds/ult/fortune/rapidjp-1.0.0.js
+||s.yimg.jp/images/fortune/smartphone/js/yfmessage.jp
+||yads.c.yimg.jp/js/yads.js
+||s.yimg.jp/images/ds/rapid/ult.js
+||s.yimg.jp/images/fortune/ranking/js/chgTopRanking.js
+||s.yimg.jp/images/security/pf/yjsecure.js
+||s.yimg.jp/images/security/pf/pcore-1.0.2.min.js
+||s.yimg.jp/images/fortune/js/yfmessage_pc.js
+!yahootop
+||s.yimg.jp/images/listing/tool/yads/*
+||yads.c.yimg.jp/js/yads-async.js
+||s.yimg.jp/images/login/sp/js/login_promo/1.1.8/login_promo-min.js
+||s.yjtag.jp/tag.js
+||s.yimg.jp/images/listing/tool/yads/impl/yads-stream-lib.js?
+||s.yimg.jp/images/search/slink/direct/sp/1.0.0/js/directlink.min.js
+||s.yimg.jp/lib/news/socialModule/smpTab_1_7-min.js
+||s.yimg.jp/lib/news/socialModule/facebook_1_14-min.js
+||s.yimg.jp/lib/news/socialModule/comment_sp-1_1-min.js
+||s.yimg.jp/images/news/v2/comment/js/commentloader/commentloader-6.1.0.min.js
+||s.yimg.jp/images/follow/website/plugin/external/js/sticker-1.0.0.min.js
+||s.yimg.jp/lib/news/socialModule/comment_sp-1_1-min.js
+||s.yimg.jp/images/news/v2/comment/js/commentloader/commentloader-6.1.0.min.js
+||s.yimg.jp/images/follow/website/plugin/external/js/sticker-1.0.0.min.js
+||s.yimg.jp/images/search/slink/1/slink.js
+||s.yimg.jp/images/listing/tool/yads/ydn/creative/editorial/ytop_tct.min.js
+
+!hatenaのうら
+||cdn-ak.f.st-hatena.com
+||b.hatena.ne.jp/js
+||blog.hatena.ne.jp/-/globalheader/*
+||cdn.blog.st-hatena.com/js
+
+! 2017819 13:38:24
+uranaitv.jp##.mm-slideout.mm-fixed-bottonav-btn
+
+! 2017819 14:12:11 
+itmedia.co.jp###msbSocialbuttonTop
+
+! 2017819 16:43:20 
+uranaitv.jp###content > .articleBannerOne
+
+! 2017819 16:43:30 
+uranaitv.jp###articleWeeklyPickUp
+
+! 2017819 16:44:10 
+uranaitv.jp###articleFree
+
+! 2017819 16:44:27 
+uranaitv.jp###keyWord
+
+! 2017820 8:11:15 
+uranaitv.jp###entrySNS
+
+! 2017820 14:40:18 
+uranaitv.jp###articleSlider
+
+! 2017820 14:50:25 
+jtrip.co.jp##.article-footer-share-buttons
+
+! 2017820 14:50:35 
+jtrip.co.jp##.bottom-jtrip
+
+! 2017821 14:35:42 
+itmedia.co.jp###msbSocialbuttonTop
+
+! 2017821 14:36:51 
+itmedia.co.jp###msbSocialbuttonBtm
+
+! 2017821 14:37:53 
+itmedia.co.jp###btm_link_box_out
+
+! 2017821 14:57:03
+jtrip.co.jp##.article-header-share-buttons
+
+! 2017821 14:57:31 
+jtrip.co.jp##.textwidget
+
+! 2017823 9:54:21 
+iijmio.jp##.chatPop
+
+! 2017824 5:24:45 
+togetter.com###fixed_social_header
+
+! 2017824 5:25:25 
+togetter.com###carouselbanner_1503519899958
+
+! 2017824 16:07:07 
+sirogohan.com##footer
+
+! 2017824 16:08:12 
+sirogohan.com##.recipe-snslist
+
+! 2017831 7:42:38 
+uranaitv.jp##.btnLogin
+
+! Thu Aug 31 14:02:39 2017 
+yahoo.co.jp##.info
+
+! Wed Sep  6 09:57:35 2017
+apple.com###enhanced-gallery-hero-gallery
+
+! Wed Sep  6 14:54:09 2017
+togetter.com###fixed_social_header
+
+! Wed Sep  6 14:54:22 2017 
+togetter.com###ad_list_top
+
+! Thu Sep  7 07:29:31 2017 
+jtrip.co.jp###overlay > .icon-menu
+
+! Thu Sep  7 07:30:30 2017 
+ascii.jp##.widepict.hero
+
+! Thu Sep  7 07:32:40 2017 
+consumer.huawei.com##.function
+
+! Thu Sep  7 07:45:06 2017 
+hatenablog.com###globalheader-container
+
+! Thu Sep  7 07:45:29 2017 
+hatenablog.com###footer-action
+
+! Thu Sep  7 07:45:41 2017 
+hatenablog.com##.footer-touch-item-list.arrow.touch-item-list
+
+! Thu Sep  7 07:50:07 2017 
+yahoo.co.jp##.socialMod
+
+! Thu Sep  7 09:57:43 2017 
+itmedia.co.jp###cmsWrap > .wrap_social_big.wrap_social
+
+! Thu Sep  7 09:59:59 2017 
+itmedia.co.jp###cmsBody > .wrap_social_big.wrap_social
+
+! Thu Sep  7 12:48:34 2017 
+google.co.jp##.hdtb-imb.hdtb-mitem:nth-of-type(3)
+
+! Thu Sep  7 12:52:24 2017 
+jtrip.co.jp##.articleUnder__widget:nth-of-type(5)
+
+! Fri Sep  8 10:31:07 2017 
+biccamera.com##.flexslider.bcs_visualSlider
+
+! Mon Sep 11 16:55:42 2017 
+itmedia.co.jp##.h10px.colBoxClear:nth-of-type(n)
+
+! 2017913 12:59:50 
+togetter.com###fixed_social_footer
+
+! 2017913 13:00:52 
+togetter.com###carouselbanner_1505275162488 > ul
+
+! 2017913 16:08:46 
+itmedia.co.jp##.wrap_social_big.wrap_social
+
+! 2017913 16:09:04 
+itmedia.co.jp###cmsPrev2Next_wrap
+
+! 2017913 16:09:18 
+itmedia.co.jp##.h10px.colBoxClear:nth-of-type(n)
+
+! 2017913 16:34:53
+ascii.jp##.ad320
+
+! 2017914 9:03:51 
+m-cocolog.jp##.pkg.entry-content > div
+
+! 2017914 14:28:34 
+jtrip.co.jp##.mainVisial
+
+! 2017914 20:12:34 
+orangepage.net##p:nth-of-type(10)
+
+! 2017914 20:12:43 
+orangepage.net##.socialButtons
+
+! 2017915 21:51:58 
+orangepage.net##.pr:nth-of-type(4)
+
+! 2017915 21:52:05 
+orangepage.net##.pr:nth-of-type(5)
+
+! 2017917 10:22:18 
+impress.co.jp##.r1.rect.ad
+
+! 2017917 10:22:18 
+impress.co.jp###sp-floating-layer
+
+! 2017917 17:15:12 
+fgosimulator.webcrow.jp###footer
+
+! 2017919 8:14:43 grand_order.wicurio.com###comment
+
+! 20171126 14:45:46
+duckduckgo.com###footer_homepage
+
+! 20171127 7:38:48
+consumer.huawei.com###top_nav
+
+! 20171127 16:19:31 
+www.sirogohan.com##.sns-area
+
+! 20171127 16:35:02 
+touch.pixiv.net###header > .signup-black
+
+! 2017/11/29 16:24:54 
+yahoo.co.jp###fixedSNS
+
+! 2017/12/5 10:55:34 
+yahoo.co.jp###rsab
+
+! 2017/12/5 10:56:07 
+yahoo.co.jp##.detailLink
+
+! 2017/12/5 10:56:51 
+yahoo.co.jp##.bnrMod
+
+! 2017/12/5 10:57:26 
+yahoo.co.jp###infolnk2
+
+! 2017/12/5 10:57:35 
+yahoo.co.jp###attentionFortune
+
+! 2017/12/5 10:57:52 
+yahoo.co.jp###peron
+
+! 2017/12/5 10:57:59 
+yahoo.co.jp###headerBanner
+
+! 2017/12/5 10:58:06 
+yahoo.co.jp###webapp
+
+! 2017/12/5 11:01:23 
+grand_order.wicurio.com###gl_sponsor_bar
+
+! 2017/12/5 11:02:07 
+grand_order.wicurio.com##p:nth-of-type(35)
+
+! 2017/12/5 11:09:45 
+uranaitv.jp###article-program
+
+! 2017/12/5 11:10:01 
+uranaitv.jp##.top-news
+
+!2017-12-05 15:21
+youtube.com##.ytd-search-pyv-renderer
+
+!2017-12-05 15:22_02
+www.google.co.jp###bottomads
+
+! 2017/12/5 15:30:15 
+m.yahoo.co.jp##.js-PremiumFirst.PremiumFirst
+
+! 2017/12/5 16:27:58 
+biglobe.ne.jp###hdDefault
+
+! 2017/12/5 16:36:55 
+yahoo.co.jp###comModule
+
+! 2017/12/5 16:37:05 
+yahoo.co.jp###themeSticker
+
+! 2017/12/5 16:39:26 
+yahoo.co.jp##.ycd.informEmg
+
+! 2017/12/5 16:39:37 
+yahoo.co.jp##.listMod
