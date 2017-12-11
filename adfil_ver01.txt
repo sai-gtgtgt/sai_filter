@@ -1,3 +1,5 @@
+!domain一括
+
 g.doubleclick.net
 static.fc2.com
 static.mixi.jp
@@ -140,8 +142,6 @@ hatena-d.openx.net
 cdn1.www.st-hatena.com
 cdn7.www.st-hatena.com
 
-!--2017-08-19_url--!
-
 !全世界共通ブロック
 ||cdn.gh-base.com/js/1.0.0/ghb-sdk.js 
 ||a.t.webtracker.jp/js/a.js 
@@ -197,6 +197,7 @@ cdn7.www.st-hatena.com
 ||s.yimg.jp/images/security/pf/yjsecure.js
 ||s.yimg.jp/images/security/pf/pcore-1.0.2.min.js
 ||s.yimg.jp/images/fortune/js/yfmessage_pc.js
+
 !yahootop
 ||s.yimg.jp/images/listing/tool/yads/*
 ||yads.c.yimg.jp/js/yads-async.js
@@ -220,6 +221,8 @@ cdn7.www.st-hatena.com
 ||b.hatena.ne.jp/js
 ||blog.hatena.ne.jp/-/globalheader/*
 ||cdn.blog.st-hatena.com/js
+
+!要素ブロック
 
 ! 2017819 13:38:24
 uranaitv.jp##.mm-slideout.mm-fixed-bottonav-btn
