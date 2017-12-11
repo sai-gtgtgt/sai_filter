@@ -1,3 +1,8 @@
+[Adblock Plus]
+! Title: sai_filter
+! Last update 2017/12/11
+
+! ドメイン指定
 g.doubleclick.net
 static.fc2.com
 static.mixi.jp
